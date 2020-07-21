@@ -1,7 +1,6 @@
 provider "aws" {
 	region = "ap-south-1"
-        access_key = "AKIA6BH2VXLXQ36PRVD6"
-	secret_key = "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" 
+        profile = "Divyansh"
 }
 //---------------------------------------------------------------
 
